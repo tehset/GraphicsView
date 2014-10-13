@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="pump_1">images/pump1.png</file>
+        <file alias="pump_2">images/pump2.png</file>
+        <file alias="pump_3">images/pump3.png</file>
+        <file alias="pump_4">images/pump4.png</file>
+        <file>images/Play.png</file>
+        <file>images/Stop.png</file>
+        <file>images/Pause.png</file>
+        <file>images/Power.png</file>
+        <file alias="gear_1">images/gear1.png</file>
+        <file alias="gear_2">images/gear2.png</file>
+        <file alias="gear_3">images/gear3.png</file>
+        <file alias="gear_4">images/gear4.png</file>
+        <file alias="gear_5">images/gear5.png</file>
+        <file alias="gear_6">images/gear6.png</file>
+        <file alias="gear_7">images/gear7.png</file>
+        <file alias="gear_8">images/gear8.png</file>
+        <file alias="gear_9">images/gear9.png</file>
+        <file alias="gear_10">images/gear10.png</file>
+    </qresource>
+</RCC>
